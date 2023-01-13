@@ -1,0 +1,19 @@
+cookietemple_version: '1.4.1 # <<COOKIETEMPLE_NO_BUMP>>'
+domain: cli
+language: python
+project_slug: cttr_wilhelmlab
+project_slug_no_hyphen: cttr_wilhelmlab
+template_version: '2.1.1 # <<COOKIETEMPLE_NO_BUMP>>'
+template_handle: cli-python
+github_username: wilhelm-lab
+creator_github_username: picciama
+is_github_repo: true
+is_repo_private: false
+is_github_orga: true
+github_orga: wilhelm-lab
+full_name: Mario Picciani
+email: mario.picciani@tum.de
+project_name: cttr_wilhelmlab
+project_short_description: cttr_wilhelmlab. A cookietemple based .
+version: 0.1.0
+license: MIT
